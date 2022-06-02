@@ -1,13 +1,16 @@
-"Summary":"Nothing happens after click on button Enter in login form",
- "Description":"Nothing happens after clicking on the Login button in the login form with validly filled fields",
- "Precondition":"The user is registered on the site",
- "Step to repoduce":"1) Open login form by link https://site/authorization.com 2) Validly fill in the name and password fields 3) Click on button Enter 4) Check that nothing is happening",
- "Actual result":"Nothing happens",
- "Expect result":"User is authorized",
- "Priority":"High",
- "Severity":"Blocker",
- "Enviroment":"All browsers/devices",
- "Stability":"Stable",
- "Attachment":"https://attachment-link.com"
+Summary:Nothing happens after click on button Enter in login form,
+ Description:Nothing happens after clicking on the Login button in the login form with validly filled fields,
+ Precondition:The user is registered on the site,
+ Step to repoduce:1) Open login form by link https://site/authorization.com 
+ 2) Validly fill in the name and password fields 
+ 3) Click on button Enter 
+ 4) Check that nothing is happening,
+ Actual result:Nothing happens,
+ Expect result:User is authorized,
+ Priority:High,
+ Severity:Blocker,
+ Enviroment:All browsers/devices,
+ Stability:Stable,
+ Attachment:https://attachment-link.com
 
  

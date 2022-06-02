@@ -1,0 +1,7 @@
+ 
+"surname":"Chudinovskikh",
+"name":"Anton",
+"patronymic":"Yurevich",
+"age":33,
+"pets":null,
+"salry": "1 million" 

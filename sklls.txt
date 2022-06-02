@@ -1,0 +1,6 @@
+"skill1":"terminal",
+ "skill2":"git",
+ "skill3":"JS",
+ "skill4":"Postman",
+ "skill5":"API"
+

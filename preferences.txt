@@ -1,0 +1,7 @@
+
+"favorite film":"the lovely bones",
+"favorite series":"Queen's Gambit",
+"favorite food" : "sprat in tomato sauce",
+"favorite season" : "summer",
+"side you want to visit":"dark"
+
